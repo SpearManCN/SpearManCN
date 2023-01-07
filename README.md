@@ -1,10 +1,15 @@
-### Hi there 👋
+### Hi there!
+
+🌱신입 백엔드 개발자, 김창남입니다
+🔎새로운 것을 배우는건 즐겁고 자신있어요
+📫Mail - cn1056@naver.com
+<br><br><br>
+<h3>Things I code with<h3>
+<img alt="HTML" src="https://img.shields.io/badge/-html5-FF5E00?style=flat-square&logo=css5&logoColor=white" />  
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-<img alt="CSS" src="https://img.shields.io/badge/-CSS-45b8d8?style=flat-square&logo=css3&logoColor=white" />
-<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+
+
+
 <!--
 **SpearManCN/SpearManCN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
