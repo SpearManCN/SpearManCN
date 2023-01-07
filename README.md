@@ -6,9 +6,11 @@
 <br><br><br>
 <h3>Things I code with<h3>
 <img alt="HTML" src="https://img.shields.io/badge/-html5-FF5E00?style=flat-square&logo=html5&logoColor=white" />  
+<img alt="Css" src="https://img.shields.io/badge/-css3-368AFF?style=flat-square&logo=css3&logoColor=white" /> 
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-
-
+<img alt="HTML" src="https://img.shields.io/badge/-html5-FF5E00?style=flat-square&logo=html5&logoColor=white" /> 
+<img alt="HTML" src="https://img.shields.io/badge/-html5-FF5E00?style=flat-square&logo=html5&logoColor=white" /> 
+<img alt="HTML" src="https://img.shields.io/badge/-html5-FF5E00?style=flat-square&logo=html5&logoColor=white" /> 
 
 <!--
 **SpearManCN/SpearManCN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
