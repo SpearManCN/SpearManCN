@@ -11,7 +11,7 @@
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 <img alt="spring" src="https://img.shields.io/badge/-spring-87CE00?style=flat-square&logo=spring&logoColor=white" /> 
 <img alt="oracle" src="https://img.shields.io/badge/-oracle-red?style=flat-square&logo=oracle&logoColor=white" /> 
-<img alt="java" src="https://img.shields.io/badge/-java-black?style=flat-square&logo=coffescript&logoColor=white" /> 
+<img alt="java" src="https://img.shields.io/badge/-java-black?style=flat-square&logo=coffeescript&logoColor=white" /> 
 
 <!--
 **SpearManCN/SpearManCN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
