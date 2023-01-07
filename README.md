@@ -1,4 +1,4 @@
-### Hi there!
+###<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there!
 
 🌱신입 백엔드 개발자, 김창남입니다 <br>
 🔎새로운 것을 배우는건 즐겁고 자신있어요 <br>
@@ -7,6 +7,7 @@
 <h3>Things I code with<h3>
 <img alt="HTML" src="https://img.shields.io/badge/-html5-FF5E00?style=flat-square&logo=html5&logoColor=white" />  
 <img alt="Css" src="https://img.shields.io/badge/-css3-368AFF?style=flat-square&logo=css3&logoColor=white" /> 
+<img alt="JS" src="https://img.shields.io/badge/-js-yellow?style=flat-square&logo=JavaScript&logoColor=white" /> 
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 <img alt="HTML" src="https://img.shields.io/badge/-html5-FF5E00?style=flat-square&logo=html5&logoColor=white" /> 
 <img alt="HTML" src="https://img.shields.io/badge/-html5-FF5E00?style=flat-square&logo=html5&logoColor=white" /> 
