@@ -1,4 +1,4 @@
-###<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there!
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there! <h1>
 
 🌱신입 백엔드 개발자, 김창남입니다 <br>
 🔎새로운 것을 배우는건 즐겁고 자신있어요 <br>
