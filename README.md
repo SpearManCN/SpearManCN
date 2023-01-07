@@ -3,7 +3,7 @@
 🌱신입 백엔드 개발자, 김창남입니다 <br>
 🔎새로운 것을 배우는건 즐겁고 자신있어요 <br>
 📫Mail - cn1056@naver.com
-<img alt="notion" src="https://img.shields.io/badge/--black?style=flat-square&logo=notion&logoColor=white" /> 
+<img alt="notion" src="https://img.shields.io/badge/-notion-black?style=flat-square&logo=notion&logoColor=white" /> 
 <br><br><br>
 <h3>Things I code with<h3>
 <img alt="HTML" src="https://img.shields.io/badge/-html5-FF5E00?style=flat-square&logo=html5&logoColor=white" />  
