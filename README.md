@@ -1,5 +1,10 @@
 ### Hi there 👋
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+<img alt="CSS" src="https://img.shields.io/badge/-CSS-45b8d8?style=flat-square&logo=css3&logoColor=white" />
+<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 <!--
 **SpearManCN/SpearManCN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
